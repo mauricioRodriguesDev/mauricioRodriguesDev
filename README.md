@@ -1,7 +1,7 @@
 ## Olá, eu sou Mauricio Rodrigues
 
 
-- 🔭 Atualmente trabalhando com BackEnd - Java | Spring Boot | SQL | Docker | Angular
+- 🔭 Desenvolvedor BackEnd - Java | Spring Boot | SQL | NoSQL | Docker  
 - 💻 Acadêmico em Análise e Desenvolvimento de Sistemas. 
 - ⚡ Apaixonado por tecnologia e desenvolvimento.
 
