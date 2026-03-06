@@ -2,8 +2,9 @@
 
 ### Desenvolvedor de Software | Acadêmico em Análise e Desenvolvimento de Sistemas
 
-Com uma forte bagagem de mais de 10 anos em rotinas administrativas, financeiras e suporte técnico em TI, trago para o desenvolvimento de software uma visão de negócios afiada, disciplina, capacidade de resolução de problemas e vivência em trabalho em equipe. Estou em transição de carreira para a tecnologia, sempre focado em criar soluções que geram impacto real e otimizam processos críticos.
-
+Desenvolvedor Backend com experiência prática em Java e Spring Boot, atuando na construção de APIs REST seguras,
+escaláveis e orientadas a boas práticas de engenharia de software. Experiência com autenticação JWT, modelagem
+de banco de dados SQL e NoSQL, testes automatizados e integração contínua (CI/CD).
 ---
 
 ### 🚀 Sobre mim
