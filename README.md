@@ -1,8 +1,9 @@
 # Olá! 👋 Eu sou Mauricio Rodrigues
 
-### Desenvolvedor de Software | Acadêmico em Análise e Desenvolvimento de Sistemas
+### Desenvolvedor de Software | Acadêmico em Análise e Desenvolvimento de Sistemas.
 
 Desenvolvedor Backend com experiência prática em Java e Spring Boot, atuando na construção de APIs REST seguras, escaláveis e orientadas a boas práticas de engenharia de software. Experiência com autenticação JWT, modelagem de banco de dados SQL e NoSQL, testes automatizados e integração contínua (CI/CD).
+
 ---
 
 ### 🚀 Sobre mim
