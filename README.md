@@ -10,7 +10,7 @@ Desenvolvedor Backend com experiência prática em Java e Spring Boot, atuando n
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**.
 - 💻 Focado na construção de aplicações e APIs utilizando **Java, ecossistema Spring Boot**.
-- 🛠️ Atualmente trabalhando em projetos interessantes, como o aplicativo **Larica.io** (plataforma de descoberta de comida) e um sistema próprio de agendador de tarefas.
+- 🛠️ Atualmente trabalhando em projetos interessantes, como um sistema de detecção de fraudes financeiras e um sistema próprio de cadastro de úsuarios e agendador de tarefas.
 - 🤖 Tenho forte interesse em inovações e recentemente me certifiquei em **Fundamentos de IA Generativa**.
 - 🎯 Busco ativamente oportunidades para aplicar e expandir meus conhecimentos em desenvolvimento de software e infraestrutura.
 
