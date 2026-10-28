@@ -41,10 +41,14 @@ Aqui estão as principais tecnologias com as quais trabalho:
 ---
 
 ### 📂 Principais Projetos e Entregas
+* **[Ecossistema de Microsserviços para Cadastro de usuários, Agendamento de tarefas e Notificações via E-mail]:**
+  Arquitetura distribuída com foco em resiliência, segurança e separação de responsabilidades, composta por 3 serviços integrados:
+  * **[API de Usuários](https://github.com/mauricioRodriguesDev/usuario):** Gestão cadastral e camada de segurança com **Spring Boot 3**, **Spring Security**, autenticação stateless com **JWT (BCrypt)** e persistência em **PostgreSQL**.
+  * **[Agendador de Tarefas](https://github.com/mauricioRodriguesDev/agendador-tarefas):** Microsserviço para controle e ciclo de vida de eventos agendados com **MongoDB (NoSQL)**, mapeamento com **MapStruct** e comunicação inter-serviços via **Spring Cloud OpenFeign**.
+  * **[Serviço de Notificação](https://github.com/mauricioRodriguesDev/notificacao):** Serviço dedicado ao disparo de e-mails via **SMTP (Gmail)** com templates HTML renderizados dinamicamente com **Thymeleaf**.
 
-* **Larica.io:** Desenvolvimento em andamento de um aplicativo voltado para o nicho de descoberta de comida de acordo com clima e horário, utilizando Java, Spring Boot e PostgreSQL.
-* **API de Gestão de Usuários:** API REST robusta desenvolvida com Java, Spring Boot e PostgreSQL. A aplicação possui endpoints seguros, autenticação via JWT, agendamento de tarefas através de cron e o ambiente é inteiramente containerizado utilizando Docker. 
-* **Sistema de Gestão de Estoque:** Desenvolvimento de um sistema de gestão de estoque que atualmente monitora mais de 700 produtos e cadastros de clientes/fornecedores. Esta ferramenta reduziu em 70% o tempo gasto com conferência manual para a equipe onde implementei, eliminando falhas de inventário.
+* **[Larica.io](https://github.com/mauricioRodriguesDev/larica.io) — AI-Driven Engineering:** 
+  Aplicativo de recomendação contextual de comida (baseado em clima e horário), desenvolvido de ponta a ponta com o auxílio de **Agentes de IA** como parte de estudos avançados em **AI Engineering** e **Agentic Coding**, integrando arquitetura moderna em **Java 17**, **Spring Boot 3** e **PostgreSQL**.
 
 ---
 
