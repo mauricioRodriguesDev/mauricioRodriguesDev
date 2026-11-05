@@ -62,6 +62,3 @@ Aqui estão as principais tecnologias com as quais trabalho:
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mauricioRodriguesDev&theme=radical&locale=pt_BR" alt="Estatísticas de Constância do GitHub" />
-</div>
