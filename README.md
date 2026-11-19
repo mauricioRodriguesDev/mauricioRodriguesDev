@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Mauricio Rodrigues
 
-### Desenvolvedor Backend & Microsserviços | Acadêmico em Análise e Desenvolvimento de Sistemas
+### Desenvolvedor Backend & IA Engineer | Acadêmico em Análise e Desenvolvimento de Sistemas
 
 Desenvolvedor de Software com experiência prática no ecossistema **Java e Spring Boot**, focado na concepção e implementação de **APIs RESTful seguras, escaláveis e resilientes**. Vivência prática com arquiteturas de microsserviços, padrões de orquestração, autenticação e autorização via **JWT / Spring Security**, persistência poliglota (**PostgreSQL** e **MongoDB**), testes automatizados e integração contínua (CI/CD). Também atuo no desenvolvimento de soluções modernas de **Inteligência Artificial Agêntica (Agentic AI)**.
 
