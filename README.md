@@ -43,15 +43,22 @@ Aqui estão as principais tecnologias com as quais trabalho:
 ### 📂 Principais Projetos e Entregas
 * **[Ecossistema de Microsserviços para Cadastro de usuários, Agendamento de tarefas e Notificações via E-mail]:**
   Arquitetura distribuída com foco em resiliência, segurança e separação de responsabilidades, composta por 3 serviços integrados:
+  * **[Bff Agendador de Tarefas](https://github.com/mauricioRodriguesDev/bff-agendador-tarefas):** Camada central Backend For Frontend (BFF) orquestradora de microsserviços (Usuários, Tarefas e E-mails) com agendador Cron automatizado e documentação OpenAPI.
   * **[API de Usuários](https://github.com/mauricioRodriguesDev/usuario):** Gestão cadastral e camada de segurança com **Spring Boot 3**, **Spring Security**, autenticação stateless com **JWT (BCrypt)** e persistência em **PostgreSQL**.
   * **[Agendador de Tarefas](https://github.com/mauricioRodriguesDev/agendador-tarefas):** Microsserviço para controle e ciclo de vida de eventos agendados com **MongoDB (NoSQL)**, mapeamento com **MapStruct** e comunicação inter-serviços via **Spring Cloud OpenFeign**.
   * **[Serviço de Notificação](https://github.com/mauricioRodriguesDev/notificacao):** Serviço dedicado ao disparo de e-mails via **SMTP (Gmail)** com templates HTML renderizados dinamicamente com **Thymeleaf**.
 
-* **[Larica.io](https://github.com/mauricioRodriguesDev/larica.io) — AI-Driven Engineering:** 
-  Aplicativo de recomendação contextual de comida (baseado em clima e horário), desenvolvido de ponta a ponta com o auxílio de **Agentes de IA** como parte de estudos avançados em **AI Engineering** e **Agentic Coding**, integrando arquitetura moderna em **Java 17**, **Spring Boot 3** e **PostgreSQL**.
-
 * **[Agentic Career Consultant](https://github.com/mauricioRodriguesDev/agentic-career-consultant) — Multi-Agent AI Framework:** 
   Framework agnóstico de agentes autônomos de IA para consultoria estratégica de carreira e aceleração profissional. Desenvolvido sob o paradigma de **Context-as-Code**, orquestra 5 agentes especialistas (diagnóstico SWOT, job matching ponderado, otimização de perfil, auditoria de código e análise de funil) regidos por **hierarquia de decisão declarativa**, protocolos estritos de **anti-alucinação** e bateria de testes com verificação criptográfica SHA-256. Compatível nativamente com **Claude Code**, **Google Antigravity**, **Cursor** e **Windsurf**.
+
+  * **[DevSRE-Copilot](https://github.com/mauricioRodriguesDev/devsre-copilot) - Agente autônomo de Inteligência Artificial focado em Engenharia de Confiabilidade (SRE) e suporte avançado ao ciclo de vida de desenvolvimento de software:**
+    Loop ReAct com Auto-Healing: Padrão Reasoning + Acting capaz de investigar falhas, inspecionar logs/código, gerar patches de correção e executar testes com até 3 ciclos de autocorreção autônoma.
+Model Context Protocol (MCP): Arquitetura desacoplada utilizando FastMCP para fornecer ao modelo ferramentas seguras de inspeção Git, sistema de arquivos, análise de logs e execução de suítes de testes em ecossistemas poliglotas (Java, Python, Node, Go, Rust, .NET).
+RAG Semântico para Runbooks: Recuperação contextual via ChromaDB integrado com avaliações quantitativas (Evals com métrica Hit Rate @ K no CI/CD).
+Root Cause Analysis (RCA): Geração de relatórios estruturados de análise de causa-raiz validados estritamente via schemas Pydantic v2 com salvaguardas de Human-in-the-Loop.
+
+  * **[Larica.io](https://github.com/mauricioRodriguesDev/larica.io) — AI-Driven Engineering:** 
+  Aplicativo de recomendação contextual de comida (baseado em clima e horário), desenvolvido de ponta a ponta com o auxílio de **Agentes de IA** como parte de estudos avançados em **AI Engineering** e **Agentic Coding**, integrando arquitetura moderna em **Java 17**, **Spring Boot 3** e **PostgreSQL**.
 
 ---
 
