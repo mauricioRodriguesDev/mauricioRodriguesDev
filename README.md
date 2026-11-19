@@ -1,45 +1,50 @@
 # Olá! 👋 Eu sou Mauricio Rodrigues
 
-### Desenvolvedor de Software | Acadêmico em Análise e Desenvolvimento de Sistemas.
+### Desenvolvedor Backend & Microsserviços | Acadêmico em Análise e Desenvolvimento de Sistemas
 
-Desenvolvedor Backend com experiência prática em Java e Spring Boot, atuando na construção de APIs REST seguras, escaláveis e orientadas a boas práticas de engenharia de software. Experiência com autenticação JWT, modelagem de banco de dados SQL e NoSQL, testes automatizados e integração contínua (CI/CD).
+Desenvolvedor de Software com experiência prática no ecossistema **Java e Spring Boot**, focado na concepção e implementação de **APIs RESTful seguras, escaláveis e resilientes**. Vivência prática com arquiteturas de microsserviços, padrões de orquestração, autenticação e autorização via **JWT / Spring Security**, persistência poliglota (**PostgreSQL** e **MongoDB**), testes automatizados e integração contínua (CI/CD). Também atuo no desenvolvimento de soluções modernas de **Inteligência Artificial Agêntica (Agentic AI)**.
 
 ---
-
 ### 🚀 Sobre mim
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**.
-- 💻 Focado na construção de aplicações e APIs utilizando **Java, ecossistema Spring Boot**.
-- 🛠️ Atualmente trabalhando em projetos interessantes, como um sistema de detecção de fraudes financeiras e um sistema próprio de cadastro de úsuarios e agendador de tarefas.
-- 🤖 Tenho forte interesse em inovações e recentemente me certifiquei em **Fundamentos de IA Generativa**.
-- 🎯 Busco ativamente oportunidades para aplicar e expandir meus conhecimentos em desenvolvimento de software e infraestrutura.
-
+- 💻 Focado na construção de aplicações robustas e microsserviços distribuídos utilizando **Java 17, Spring Boot 3 e Spring Cloud**.
+- 🛠️ Atualmente desenvolvendo projetos de alto impacto técnico:
+  - **Ecossistema de Tarefas & BFF:** Arquitetura distribuída de microsserviços com camada BFF orquestradora (OpenFeign), agendador em background (Cron), persistência híbrida (PostgreSQL + MongoDB) e Swagger OpenAPI.
+  - **Sistema de Detecção de Fraudes Financeiras:** Implementação de pipelines para análise transacional de risco e identificação de anomalias.
+  - **DevSRE-Copilot & Agentes de IA:** Copiloto autônomo baseado em padrões ReAct com auto-healing, ferramentas MCP (*Model Context Protocol*) e RAG semântico com ChromaDB.
+- 🤖 Certificado em **Fundamentos de IA Generativa**, aplicando conceitos práticos de LLMs, MCP e engenharia de contexto no desenvolvimento de software.
+- 🎯 Busco ativamente oportunidades como **Desenvolvedor Backend / Software Engineer** para aplicar e expandir minhas competências em arquitetura de software, microsserviços e infraestrutura.
+- 
 ---
-
 ### 💻 Tecnologias e Ferramentas
 
 Aqui estão as principais tecnologias com as quais trabalho:
 
+**Linguagens & Backend:**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+**Frontend:**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+**Bancos de Dados & Persistência:**  
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+**DevOps, Infraestrutura & Metodologias:**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-blue?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/-Kanban-blue?style=for-the-badge)
 
 ---
-
 ### 📂 Principais Projetos e Entregas
 * **[Ecossistema de Microsserviços para Cadastro de usuários, Agendamento de tarefas e Notificações via E-mail]:**
   Arquitetura distribuída com foco em resiliência, segurança e separação de responsabilidades, composta por 3 serviços integrados:
