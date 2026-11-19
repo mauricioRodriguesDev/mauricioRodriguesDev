@@ -51,13 +51,13 @@ Aqui estão as principais tecnologias com as quais trabalho:
 * **[Agentic Career Consultant](https://github.com/mauricioRodriguesDev/agentic-career-consultant) — Multi-Agent AI Framework:** 
   Framework agnóstico de agentes autônomos de IA para consultoria estratégica de carreira e aceleração profissional. Desenvolvido sob o paradigma de **Context-as-Code**, orquestra 5 agentes especialistas (diagnóstico SWOT, job matching ponderado, otimização de perfil, auditoria de código e análise de funil) regidos por **hierarquia de decisão declarativa**, protocolos estritos de **anti-alucinação** e bateria de testes com verificação criptográfica SHA-256. Compatível nativamente com **Claude Code**, **Google Antigravity**, **Cursor** e **Windsurf**.
 
-  * **[DevSRE-Copilot](https://github.com/mauricioRodriguesDev/devsre-copilot) - Agente autônomo de Inteligência Artificial focado em Engenharia de Confiabilidade (SRE) e suporte avançado ao ciclo de vida de desenvolvimento de software:**
+* **[DevSRE-Copilot](https://github.com/mauricioRodriguesDev/devsre-copilot) - Agente autônomo de Inteligência Artificial focado em Engenharia de Confiabilidade (SRE) e suporte avançado ao ciclo de vida de desenvolvimento de software:**
     Loop ReAct com Auto-Healing: Padrão Reasoning + Acting capaz de investigar falhas, inspecionar logs/código, gerar patches de correção e executar testes com até 3 ciclos de autocorreção autônoma.
 Model Context Protocol (MCP): Arquitetura desacoplada utilizando FastMCP para fornecer ao modelo ferramentas seguras de inspeção Git, sistema de arquivos, análise de logs e execução de suítes de testes em ecossistemas poliglotas (Java, Python, Node, Go, Rust, .NET).
 RAG Semântico para Runbooks: Recuperação contextual via ChromaDB integrado com avaliações quantitativas (Evals com métrica Hit Rate @ K no CI/CD).
 Root Cause Analysis (RCA): Geração de relatórios estruturados de análise de causa-raiz validados estritamente via schemas Pydantic v2 com salvaguardas de Human-in-the-Loop.
 
-  * **[Larica.io](https://github.com/mauricioRodriguesDev/larica.io) — AI-Driven Engineering:** 
+* **[Larica.io](https://github.com/mauricioRodriguesDev/larica.io) — AI-Driven Engineering:** 
   Aplicativo de recomendação contextual de comida (baseado em clima e horário), desenvolvido de ponta a ponta com o auxílio de **Agentes de IA** como parte de estudos avançados em **AI Engineering** e **Agentic Coding**, integrando arquitetura moderna em **Java 17**, **Spring Boot 3** e **PostgreSQL**.
 
 ---
